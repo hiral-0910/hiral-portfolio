@@ -1,0 +1,1 @@
+# Hiral Panchal — Portfolio\n\nPortfolio website built with HTML, CSS, JS.\nDeployed on GitHub Pages.\nEmail: hiralpanchal910@gmail.com
